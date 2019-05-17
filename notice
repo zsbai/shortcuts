@@ -1,14 +1,14 @@
 {
 	"heiwukong": {
-		"title": "",
-		"detail": "",
-		"img": ""
+		"title": "通用title",
+		"detail": "通用detail",
+		"img": "http://data.bbs.18183.com/attachment/forum/201611/02/134233y7lyrzwrnxcuyq7q.gif"
 	},
 	"notice": {
-		"藏头诗": {
-			"title": "",
-			"detail": "",
-			"img": ""
+		"黑悟空框架": {
+			"title": "黑悟空框架title",
+			"detail": "黑悟空框架detail",
+			"img": "http://data.bbs.18183.com/attachment/forum/201611/02/134233y7lyrzwrnxcuyq7q.gif"
 		}
 	}
 }
