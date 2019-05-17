@@ -1,10 +1,10 @@
 {
 	"heiwukong": "作者：nnoy公众号：黑悟空捷径社区及捷径盒名称：nnoy",
 	"update": {
-		"藏头诗": {
+		"黑悟空框架": {
 			"version": "V1.0.0",
-			"url": "https://www.icloud.com/shortcuts/4d2533be13694fcb8ed22f393b77df3d",
-			"content": "更新内容1；更新内容2；更新内容3"
+			"url": "http://nnoy.xyz/",
+			"content": "【新增】检测更新；【新增】消息通知；【新增】内容推荐"
 		}
 	}
 }
