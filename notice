@@ -1,5 +1,5 @@
 {
-	"type": "0",
+	"type": "1",
 	"notice": {
 		"heiwukong": {
 			"title": "通用title",
@@ -9,7 +9,7 @@
 		"黑悟空框架": {
 			"title": "黑悟空框架title",
 			"detail": "黑悟空框架detail",
-			"img": "http://data.bbs.18183.com/attachment/forum/201611/02/134233y7lyrzwrnxcuyq7q.gif"
+			"img": ""
 		}
 	}
 }
