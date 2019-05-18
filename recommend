@@ -1,9 +1,9 @@
 {
-	"type": "link",
+	"type": "taokouling",
 	"taokouling": {
-		"title": "",
-		"taokouling": "",
-		"url": ""
+		"title": "520礼物",
+		"taokouling": "￥S4GOY2ZEpvm￥",
+		"url": "taobao://"
 	},
 	"link": {
 		"title": "黑悟空",
