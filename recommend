@@ -1,13 +1,13 @@
 {
-	"type": "",
+	"type": "link",
 	"taokouling": {
 		"title": "",
 		"taokouling": "",
 		"url": ""
 	},
 	"link": {
-		"title": "",
-		"url": ""
+		"title": "黑悟空",
+		"url": "http://nnoy.xyz"
 	},
 	"image": {
 		"title": "",
