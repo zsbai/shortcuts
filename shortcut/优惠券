@@ -7,6 +7,6 @@
     },
     "tkl": "￥.+?￥",
     "tkl2id": "https://api.taokouling.com/tkl/tkljm",
-    "id2url": "https://api.taokouling.com/tkl/TbkPrivilegeGet"
+    "id2url": "https://api.taokouling.com/tkl/TbkPrivilegeGet",
     "url2tkl": "https://api.taokouling.com/tbk/TbkTpwdCreate"
 }
