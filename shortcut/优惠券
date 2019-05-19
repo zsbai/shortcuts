@@ -1,4 +1,5 @@
 {
     "tkl": "￥.+?￥",
-    "tkljx": "https://api.taokouling.com/tkl/tkljm?apikey=OeERxtNhLs&tkl="
+    "tkl2id": "https://api.taokouling.com/tkl/tkljm?apikey=OeERxtNhLs&tkl=",
+    "id2yhq": "https://api.zhetaoke.com:10001/api/api_detail.ashx?appkey=253277086b3841bea02454c5dcfd7780&tao_id="
 }
