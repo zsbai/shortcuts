@@ -22,5 +22,11 @@
 		"title": "",
 		"detail": "",
 		"img": ""
+	},
+	"优惠券": {
+		"type": 0,
+		"title": "",
+		"detail": "",
+		"img": ""
 	}
 }
