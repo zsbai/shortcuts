@@ -6,7 +6,7 @@
         "uid": "3953170605"
     },
     "tkl": "￥.+?￥",
-    "tkl2id": "https://api.taokouling.com/tkl/tkljm?apikey=&tkl=",
-    "id2url": "https://api.taokouling.com/tkl/TbkPrivilegeGet?apikey=OeERxtNhLs&siteid=494000487&adzoneid=108805350293&uid=3953170605&itemid="
+    "tkl2id": "https://api.taokouling.com/tkl/tkljm",
+    "id2url": "https://api.taokouling.com/tkl/TbkPrivilegeGet"
     "url2tkl": "https://api.taokouling.com/tbk/TbkTpwdCreate"
 }
