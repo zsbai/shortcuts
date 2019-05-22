@@ -6,6 +6,8 @@
         "uid": "3953170605"
     },
     "tkl": "￥.+?￥",
+    "tkl2id": "https://api.taokouling.com/tkl/tkljm",
+    "id2url": "https://api.taokouling.com/tkl/TbkPrivilegeGet"
     "qrcode": "https://i.loli.net/2019/05/20/5ce29662c159c47540.png",
     "url_scheme": "weixin://scanqrcode"
 }
