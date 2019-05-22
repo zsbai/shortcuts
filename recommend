@@ -1,12 +1,12 @@
 {
 	"heiwukong": {
-		"type": 0,
+		"type": 1,
 		"title": "通用title",
-		"url": ""
+		"url": "https://www.ithome.com/"
 	},
 	"薅羊毛": {
-		"type": 1,
+		"type": 0,
 		"title": "优酷会员年卡限时半价99元",
-		"url": "https://www.ithome.com/"
+		"url": "￥rL3FY2BpTwd￥"
 	}
 }
