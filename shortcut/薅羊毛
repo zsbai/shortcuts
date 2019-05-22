@@ -1,4 +1,11 @@
 {
+    "myInfo": {
+        "apikey": "OeERxtNhLs",
+        "siteid": "494000487",
+        "adzoneid": "108805350293",
+        "uid": "3953170605"
+    },
+    "tkl": "￥.+?￥",
     "qrcode": "https://i.loli.net/2019/05/20/5ce29662c159c47540.png",
     "url_scheme": "weixin://scanqrcode"
 }
