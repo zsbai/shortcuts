@@ -1,20 +1,13 @@
 {
-	"type": "taokouling",
-	"taokouling": {
-		"title": "优酷会员年卡限时半价99元",
-		"taokouling": "￥rL3FY2BpTwd￥",
-		"url": "taobao://"
-	},
-	"link": {
-		"title": "黑悟空",
-		"url": "http://nnoy.xyz"
-	},
-	"image": {
-		"title": "",
+	"heiwukong": {
+		"type": 0,
+		"title": "通用title",
 		"url": ""
 	},
-	"text": {
+	"薅羊毛": {
+		"type": 0,
 		"title": "",
-		"url": ""
+		"detail": "",
+		"img": ""
 	}
 }
