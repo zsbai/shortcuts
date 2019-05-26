@@ -1,13 +1,13 @@
 {
 	"heiwukong": {
-		"type": 1,
-		"title": "送5个http catcher兑换码",
-		"url": "https://mp.weixin.qq.com/s/i8sg216n9ZihHQ_3xk-W4g"
-	},
-	"薅羊毛": {
 		"type": 0,
 		"title": "",
 		"url": ""
+	},
+	"薅羊毛": {
+		"type": 1,
+		"title": "送5个http catcher兑换码",
+		"url": "https://mp.weixin.qq.com/s/i8sg216n9ZihHQ_3xk-W4g"
 	},
 	"玩转微信": {
 		"type": 0,
