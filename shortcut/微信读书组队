@@ -1,3 +1,7 @@
 {
-    "isWeread": "weread.qq.com"
+    "isWeread": "weread.qq.com",
+    "feedback": {
+        "wechat": "154887927",
+        "email": "iamnnoy@163.com"
+    }
 }
