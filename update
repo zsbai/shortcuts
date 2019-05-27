@@ -37,9 +37,9 @@
 			"content": ""
 		},
 		"微信读书组队": {
-			"version": "V1.0.0",
-			"url": "",
-			"content": ""
+			"version": "V1.0.1",
+			"url": "https://www.icloud.com/shortcuts/0a6a7c1d0d85429fbdcd0fd4fb25b631",
+			"content": "修改满员逻辑，避免恶意删除他人组队；修改部分引导"
 		}
 	}
 }
