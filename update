@@ -7,9 +7,9 @@
 			"content": "【新增】检测更新；【新增】消息通知；【新增】内容推荐"
 		},
 		"藏头诗": {
-			"version": "V1.0.0",
-			"url": "",
-			"content": ""
+			"version": "V1.0.1",
+			"url": "https://www.icloud.com/shortcuts/c04a7f20b8694c0c8d61811ca8d0b78d",
+			"content": "修复部分错误"
 		},
 		"薅羊毛": {
 			"version": "V1.0.1",
