@@ -64,5 +64,11 @@
 		"title": "",
 		"detail": "",
 		"img": ""
+	},
+	"日语能力考": {
+		"type": 0,
+		"title": "",
+		"detail": "",
+		"img": ""
 	}
 }
