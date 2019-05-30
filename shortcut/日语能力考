@@ -1,7 +1,7 @@
 {
     "news": {
         "url": "https://news.etest.edu.cn/JLPT/1/",
-        "newslist": "newslist.htm"
+        "list": "newslist.htm"
     },
     "query": {
         "url": "https://jlpt.etest.edu.cn/",
