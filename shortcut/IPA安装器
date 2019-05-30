@@ -1,3 +1,6 @@
 {
-    "url": "itms-services:///?action=download-manifest&url=https://gitee.com/heiwukong/shortcuts/raw/master/config/"
+    "url": {
+        "shu": "itms-services:///?action=download-manifest&url=https://gitee.com/heiwukong/shortcuts/raw/master/config/shu",
+        "weafo": "itms-services:///?action=download-manifest&url=https://gitee.com/heiwukong/shortcuts/raw/master/config/weafo"
+    }
 }
