@@ -1,0 +1,7 @@
+{
+    "url": {
+        "newslist": "https://news.etest.edu.cn/JLPT/1/newslist.htm",
+        "qryscore": "https://jlpt.etest.edu.cn/qryscore.jsp",
+        "queryZKZ": "https://jlpt.etest.edu.cn/queryZKZ.jsp"
+    }
+}
