@@ -1,7 +1,11 @@
 {
-    "url": {
-        "newslist": "https://news.etest.edu.cn/JLPT/1/newslist.htm",
-        "qryscore": "https://jlpt.etest.edu.cn/qryscore.jsp",
-        "queryZKZ": "https://jlpt.etest.edu.cn/queryZKZ.jsp"
+    "news": {
+        "url": "https://news.etest.edu.cn/JLPT/1/",
+        "newslist": "newslist.htm"
+    },
+    "query": {
+        "url": "https://jlpt.etest.edu.cn/",
+        "score": "qryscore.jsp",
+        "ZKZ": "queryZKZ.jsp"
     }
 }
