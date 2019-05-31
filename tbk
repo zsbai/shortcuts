@@ -5,8 +5,8 @@
         "adzoneid": "108805350293",
         "uid": "3953170605"
     },
-    "url_scheme": "taobao://",
     "tkl": "￥.+?￥",
-    "tkl2id": "https://api.taokouling.com/tkl/tkljm",
-    "id2url": "https://api.taokouling.com/tkl/TbkPrivilegeGet"
+    "tkl2url": "https://api.taokouling.com/tkl/tkljm",
+    "qrcode": "https://i.loli.net/2019/05/20/5ce29662c159c47540.png",
+    "url_scheme": "weixin://scanqrcode"
 }
