@@ -2,26 +2,31 @@
 	"heiwukong": {
 		"type": 0,
 		"title": "",
-		"url": ""
+		"url": "",
+		"vCard": 0
 	},
 	"薅羊毛": {
 		"type": 1,
 		"title": "抽奖送码，今晚开奖",
-		"url": "https://mp.weixin.qq.com/s/i8sg216n9ZihHQ_3xk-W4g"
+		"url": "https://mp.weixin.qq.com/s/i8sg216n9ZihHQ_3xk-W4g",
+		"vCard": 0
 	},
 	"玩转微信": {
 		"type": 0,
 		"title": "",
-		"url": ""
+		"url": "",
+		"vCard": 0
 	},
 	"微信读书组队": {
 		"type": 0,
 		"title": "",
-		"url": ""
+		"url": "",
+		"vCard": 0
 	},
 	"日语能力考": {
 		"type": 0,
 		"title": "",
-		"url": ""
+		"url": "",
+		"vCard": 0
 	}
 }
