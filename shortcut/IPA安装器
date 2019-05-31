@@ -5,6 +5,7 @@
     },
     "weafo": {
         "xml": "itms-services:///?action=download-manifest&url=https://gitee.com/heiwukong/shortcuts/raw/master/config/weafo",
-        "show": ""
+        "show": "",
+        "device_name": "黑悟空"
     }
 }
