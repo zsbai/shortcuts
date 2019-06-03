@@ -36,7 +36,10 @@
                     "nickname": "꧁꫞꯭|꯭| ꯭꫞꧂"
                 }
             },
-            "what_is_up": ""
+            "what_is_up": {
+                "normal": "https://v1.hitokoto.cn/?encode=text",
+                "dirty": "https://www.nihaowua.com"
+            }
         }
     }
 }
