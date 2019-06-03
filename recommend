@@ -52,7 +52,7 @@
 		"title": "",
 		"desc": "",
 		"url": "",
-		"is_vCard": 0,
+		"is_vCard": 1,
 		"vCard": ""
 	}
 }
