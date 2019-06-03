@@ -46,5 +46,13 @@
 		"url": "",
 		"is_vCard": 0,
 		"vCard": ""
+	},
+	"小霸王游戏机": {
+		"type": 0,
+		"title": "",
+		"desc": "",
+		"url": "",
+		"is_vCard": 0,
+		"vCard": ""
 	}
 }
