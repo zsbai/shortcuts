@@ -1,4 +1,4 @@
 {
     "url": "https://www.yikm.net",
-    "zzbds": "https[\s\S]+?####  \[.+]"
+    "zzbds": "https\[\s\S\]+?####  \[.+\]"
 }
