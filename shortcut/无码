@@ -1,5 +1,7 @@
 {
     "app": {
-        "Keep": "https://keep.com/entries/"
+        "Keep": "https://keep.com/entries/",
+        "抖音": "",
+        "TikTok": ""
     }
 }
