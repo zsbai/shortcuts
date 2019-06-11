@@ -1,7 +1,7 @@
 {
     "app": {
-        "Keep": "https://keep.com/entries/",
-        "抖音": "",
-        "TikTok": ""
+        "Keep": "keep.com/entries",
+        "抖音": "v.douyin.com",
+        "TikTok": "vm.tiktok.com"
     }
 }
