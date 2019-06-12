@@ -70,6 +70,11 @@
 			"version": "V1.0.0",
 			"url": "",
 			"content": ""
+		},
+		"VideoVIPs": {
+			"version": "V1.0.0",
+			"url": "",
+			"content": ""
 		}
 	}
 }
