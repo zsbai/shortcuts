@@ -1,8 +1,8 @@
 {
     "app": {
-        "Keep": "keep.com/entries",
+        "Keep": "keep.com",
         "抖音": "v.douyin.com",
-        "TikTok": "vm.tiktok.com"
+        "小红书": "xiaohongshu.com"
     },
     "api": {
         "抖音": "https://lyfzn.top/plugins/douyin/videoPrase/parseByLink.php?url="
