@@ -88,5 +88,11 @@
 		"title": "",
 		"detail": "",
 		"img": ""
+	},
+	"VideoVIPs": {
+		"type": 0,
+		"title": "",
+		"detail": "",
+		"img": ""
 	}
 }
