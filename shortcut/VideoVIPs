@@ -7,7 +7,7 @@
         "url": "iqiyi.com",
         "api": "https://beaacc.com/api.php?url="
     },
-    "爱奇艺": {
+    "优酷": {
         "url": "youku.com",
         "api": "http://jx.vsvc.cc/t/1/?url="
     },
