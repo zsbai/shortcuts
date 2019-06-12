@@ -1,10 +1,5 @@
 {
-    "url": {
-        "腾讯视频": "v.qq.com",
-        "爱奇艺": "iqiyi.com",
-        "优酷": "youku.com",
-        "芒果": "mgtv.com"
-    },
+    "platform": ["腾讯视频", "爱奇艺", "优酷", "芒果"],
     "api": {
         "v.qq.com": "https://beaacc.com/api.php?url=",
         "iqiyi.com": "https://beaacc.com/api.php?url=",
