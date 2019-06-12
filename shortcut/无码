@@ -3,5 +3,8 @@
         "Keep": "keep.com/entries",
         "抖音": "v.douyin.com",
         "TikTok": "vm.tiktok.com"
+    },
+    "api": {
+        "抖音": "https://lyfzn.top/plugins/douyin/videoPrase/parseByLink.php?url="
     }
 }
