@@ -94,5 +94,11 @@
 		"title": "",
 		"detail": "",
 		"img": ""
+	},
+	"临时手机号": {
+		"type": 0,
+		"title": "",
+		"detail": "",
+		"img": ""
 	}
 }
