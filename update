@@ -75,6 +75,11 @@
 			"version": "V1.0.0",
 			"url": "",
 			"content": ""
+		},
+		"临时手机号": {
+			"version": "V1.0.0",
+			"url": "",
+			"content": ""
 		}
 	}
 }
