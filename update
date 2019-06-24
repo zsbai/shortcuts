@@ -85,6 +85,11 @@
 			"version": "V1.0.0",
 			"url": "",
 			"content": ""
+		},
+		"食物热量查询": {
+			"version": "V1.0.0",
+			"url": "",
+			"content": ""
 		}
 	}
 }
