@@ -1,6 +1,6 @@
 {
     "zzbds": {
-        "picture": "https://i.pinimg.com/originals/.*?.jpg"
+        "picture": "https://i.pinimg.com/originals/.*?.jpg",
         "video": "https://v.pinimg.com/videos/.*?.mp4"
     }
 }
