@@ -2,5 +2,10 @@
     "api": {
         "search": "http://food.boohee.com/fb/v1/search?tags=&health_light=&q=",
         "food": "http://food.boohee.com/fb/v1/foods/heiwukong/mode_show"
+    },
+    "health_light": {
+        "1": "",
+        "2": "",
+        "3": "️"
     }
 }
