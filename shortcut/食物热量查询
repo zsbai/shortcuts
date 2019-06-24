@@ -1,4 +1,4 @@
 {
-    "search": "http://food.boohee.com/fb/v1/search?tags=&health_light=&q=heiwukong&page=",
+    "search": "http://food.boohee.com/fb/v1/search?tags=&health_light=&q=",
     "food": "http://food.boohee.com/fb/v1/foods/heiwukong/mode_show"
 }
