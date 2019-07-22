@@ -1,9 +1,9 @@
 {
     "platform": ["腾讯视频", "爱奇艺", "优酷", "芒果"],
     "api": {
-        "v.qq.com": "https://beaacc.com/api.php?url=",
-        "iqiyi.com": "https://beaacc.com/api.php?url=",
-        "youku.com": "http://www.82190555.com/index/qqvod.php?url=",
-        "mgtv.com": "http://2gty.com/apiurl/yun.php?url="
+        "v.qq.com": "http://api.ledboke.com/vip/?url=",
+        "iqiyi.com": "http://api.ledboke.com/vip/?url=",
+        "youku.com": "http://api.ledboke.com/vip/?url=",
+        "mgtv.com": "http://jx.598110.com/index.php?url="
     }
 }
