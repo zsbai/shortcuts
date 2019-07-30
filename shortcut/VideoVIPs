@@ -1,6 +1,6 @@
 {
-    "platform": ["腾讯视频", "爱奇艺", "优酷", "芒果"],
-    "api": {
+    "items": ["腾讯视频", "爱奇艺", "优酷", "芒果"],
+    "apis": {
         "v.qq.com": "http://api.ledboke.com/vip/?url=",
         "iqiyi.com": "http://api.ledboke.com/vip/?url=",
         "youku.com": "http://api.ledboke.com/vip/?url=",
