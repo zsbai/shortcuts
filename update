@@ -72,9 +72,9 @@
 			"content": ""
 		},
 		"VideoVIPs": {
-			"version": "V1.0.0",
-			"url": "",
-			"content": ""
+			"version": "V1.1.0",
+			"url": "https://www.icloud.com/shortcuts/e573c71199f849c798dc9a6ad9170cb7",
+			"content": "配合JSBox版，逻辑重写"
 		},
 		"临时手机号": {
 			"version": "V1.0.2",
