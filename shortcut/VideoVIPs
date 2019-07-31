@@ -1,5 +1,5 @@
 {
-    "JSBox": "www.qq.com",
+    "JSBox": "https://xteko.com/redir?name=VideoVIPs&url=https://gitee.com/heiwukong/JSBox/raw/master/newVersion/VideoVIPs/VideoVIPsV1.0.0.box",
     "items": ["腾讯视频", "爱奇艺", "优酷", "芒果"],
     "apis": {
         "v.qq.com": "http://vip.jlsprh.com/index.php?url=",
