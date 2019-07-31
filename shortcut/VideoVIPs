@@ -1,4 +1,5 @@
 {
+    "JSBox": "www.qq.com"
     "items": ["腾讯视频", "爱奇艺", "优酷", "芒果"],
     "apis": {
         "v.qq.com": "http://api.ledboke.com/vip/?url=",
