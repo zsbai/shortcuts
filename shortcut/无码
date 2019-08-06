@@ -5,7 +5,7 @@
         "小红书": "xiaohongshu.com"
     },
     "api": {
-        "抖音": "https://lyfzn.top/plugins/douyin/videoPrase/parseByLink.php?url=",
+        "抖音": "http://nnoy.online/parseByLink.php?url=",
         "小红书": "http://ci.xiaohongshu.com/"
     }
 }
