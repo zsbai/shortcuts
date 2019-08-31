@@ -5,7 +5,7 @@
         "小红书": "xiaohongshu.com"
     },
     "api": {
-        "抖音": "http://www.kaolajiexi.com/ajax/parse.php",
+        "抖音": "http://jx.zanqianba.com/api/apply/jx",
         "小红书": "http://ci.xiaohongshu.com/"
     }
 }
