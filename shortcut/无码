@@ -5,7 +5,7 @@
         "小红书": "xiaohongshu.com"
     },
     "api": {
-        "抖音": "http://jx.zanqianba.com/api/apply/wb",
+        "抖音": "http://jx.zanqianba.com/ajax/api.php",
         "小红书": "http://ci.xiaohongshu.com/"
     }
 }
